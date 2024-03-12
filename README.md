@@ -1,4 +1,5 @@
 # Wardrobe-maker
+Hi my name is Md Shahil, a student of Bennett University and currently I am completing my B.tech CSE with AI as my specialization.
 "For my fourth semester, I'm diving deep into the world of Artificial Intelligence and Machine Learning through this project."
 
 "In my fourth semester, I am immersing myself in the realm of Artificial Intelligence and Machine Learning with a focus on my project, Wardrobe Maker.
